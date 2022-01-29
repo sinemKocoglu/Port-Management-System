@@ -1,6 +1,3 @@
-
-//DO_NOT_EDIT_ANYTHING_ABOVE_THIS_LINE
-
 package ports;
 
 import java.util.ArrayList;
@@ -171,8 +168,3 @@ public class Port implements IPort{
 	
 	
 }
-
-
-
-//DO_NOT_EDIT_ANYTHING_BELOW_THIS_LINE
-

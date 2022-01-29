@@ -1,6 +1,3 @@
-
-//DO_NOT_EDIT_ANYTHING_ABOVE_THIS_LINE
-
 package containers;
 
 public abstract class Container implements Comparable<Container>{
@@ -51,8 +48,3 @@ public abstract class Container implements Comparable<Container>{
 	}
 	
 }
-
-
-
-//DO_NOT_EDIT_ANYTHING_BELOW_THIS_LINE
-
